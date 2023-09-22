@@ -21,3 +21,4 @@ funcionario1.aumentar_salario(5)
 
 print("\nsalario após o aumento:")
 print(funcionario1.salario)
+
